@@ -7,11 +7,11 @@ description: "Telar Demo"
 url: "https://angel-62.github.io"
 baseurl: "/group8_telar_demo"
 author: "angel-62"
-email: ""
-telar_theme: "santa-barbara" # Options: trama, paisajes, neogranadina, santa-barbara, austin, or custom
+email: "angel62@ucsb.edu"
+telar_theme: "santa-barbara"
 logo: ""
-telar_language: "en" # Options: "en" (English), "es" (Español)
-collection_mode: false # Set to true to show objects first with large thumbnails and stories below with small thumbnails (collection-first homepage)
+telar_language: en
+collection_mode: false
 
 # Story Interface Settings
 story_interface:
